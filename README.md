@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SovanRoy-ops
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Java Spring Boot and Microservices
+- 🌱 I’m a full stack developer with professional experience in Angular and Springboot, Cloud Services and deployment(CI/CD).
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me - lets connect on LinkedIn
 
